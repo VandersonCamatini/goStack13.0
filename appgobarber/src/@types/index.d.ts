@@ -1,0 +1,1 @@
+declare module '*.png'; // todos os arquivos com essa ext, são módulos e podem ser importados.
